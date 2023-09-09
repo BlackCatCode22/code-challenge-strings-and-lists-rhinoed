@@ -46,7 +46,8 @@ preposition = "through"
 -[x] Create variable `substring_length = len("black dog")`
 -[x] Extract "black dog" from `str_two` and store in variable `substring` using `substring = str_two[start_index :start_index + substring_length]`
 -[x] Output `substring` in `print("\n substring is: " + substring)`
-----
+
+<hr>
 ### Lists
 
 ```python
